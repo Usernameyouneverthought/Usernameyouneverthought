@@ -1,8 +1,8 @@
 ### Hi there, I'm Pratham Mittal 👋
 
 
-[![Website](https://img.shields.io/badge/Visit-UP-brightgreen)](https://prathammittal.netlify.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/prthmmittl?color=1DA1F2&logo=twitter&style=for-the-badge))](https://twitter.com/prthmmittl)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fprathammittal.netlify.app)](https://prathammittal.netlify.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/prthmmittl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prthmmittl)
 - 👀 I’m interested in unravelling the mysteries of the universe
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other inquisitive minds
