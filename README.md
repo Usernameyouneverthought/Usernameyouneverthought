@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other inquisitive minds
 - ⚡ Fun fact: I love to read books and researching interesting topics
-- 🎯 2021 Goals: Overcome Procastination
+- 🎯 2021 Goals: Overcome Procastination 
+- 😬 A lurker
 
 ### Connect with me:
 
