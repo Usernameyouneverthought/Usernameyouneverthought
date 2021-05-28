@@ -9,7 +9,8 @@
 - ⚡ Fun fact: I love to read books and researching interesting topics
 - 🎯 2021 Goals: Overcome Procastination 
 - 😬 A lurker
-
+- 
+Favourite quote: "Know something about everything and everything about something."
 ### Connect with me:
 
 [<img align="left" alt="prathammittal.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
